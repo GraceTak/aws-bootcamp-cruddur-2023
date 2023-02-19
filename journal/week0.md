@@ -2,7 +2,7 @@
 
 ##Required Homework
 
-### Installing AWS CLI
+### Installing and Verify AWS CLI
 
 I was not able to install aws cli due to gitpod browser issues.
 Below the intructions I used for isntalling it on Windows.
