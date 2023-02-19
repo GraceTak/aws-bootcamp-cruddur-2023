@@ -9,7 +9,7 @@ Below the intructions I used for isntalling it on Windows.
 
 Installed AWS CLI on Windows  via **command promt**
 
-!.[Installing AWS CLI].(assets/AWS%20CLI%20WINDOWS.PNG)
+!.[Installing AWS CLI].(assets/
 
 
 ```
@@ -21,4 +21,4 @@ C:\Users\haris>aws --version
 aws-cli/2.10.1 Python/3.9.11 Windows/10 exe/AMD64 prompt/off
 
 ```
-!.[Proof of Working AWS CLI].(assets/proof%20of%20working%20aws%20cli.PNG)
+!.[Proof of Working AWS CLI].(assets/)
