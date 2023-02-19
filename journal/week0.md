@@ -10,10 +10,6 @@ Below the intructions I used for isntalling it on Windows.
 Installed AWS CLI on Windows  via **command promt**
 
 
-![Installing AWS CLI](assets/installing-windows-aws-cli.png)
-![Proof of working AWS CLI](assets/proof of working aws cli.png)
-
-
 ```
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
