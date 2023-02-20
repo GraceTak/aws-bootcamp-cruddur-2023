@@ -24,7 +24,7 @@ C:\Users\haris>aws --version
 aws-cli/2.10.1 Python/3.9.11 Windows/10 exe/AMD64 prompt/off
 
 ```
-![Proof of Working AWS CLI](assets/proof-of-working-aws-cli.PNG)
+![Proof of Working AWS CLI](assets/proofofworkingawscli.PNG)
 
 ### Create a Budget Alarm
 
