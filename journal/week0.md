@@ -32,3 +32,7 @@ I created a 1$ dollar alarm because I can't afford any spend.
 I did not create a second budget due to 2  budget free limit.
 
 ![Image of the budget alarm](assets/budget-alarm.PNG)
+
+### Recreate Logical Architecture Design
+
+![Crudder Logical Design](assets/Crudder%20logical%20diagram.png)
